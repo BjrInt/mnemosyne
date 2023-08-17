@@ -6,7 +6,7 @@
             <img src="./public/icons/icon_128.png" />
         </td>
         <td>
-            An extension to Pin content on the Aleph.im network using the built-in IPFS WebUI.
+            A chrome browser extension to Pin content on the Aleph.im network using the built-in IPFS WebUI.
         </td>
     </tr>
 </table>
