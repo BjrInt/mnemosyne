@@ -19,7 +19,7 @@
     "webpack-merge": "^5.8.0"
   },
   "dependencies": {
-    "aleph-sdk-ts": "^3.3.0",
+    "aleph-sdk-ts": "^3.6.2",
     "ethers": "^6.0.2",
     "metamask-extension-provider": "^3.0.0",
     "node-polyfill-webpack-plugin": "^2.0.1"
