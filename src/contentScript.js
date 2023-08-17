@@ -16,7 +16,6 @@ import { hasFilesTable, isOnFilesPage, createPinOnAleph } from "./helpers";
 let hasMutated = false
 
 const mo = new MutationObserver(() => {
-  routeHandler.pageHasChanged()
   const filesTable = hasFilesTable()
   if(!isOnFilesPage() || !filesTable){
     return

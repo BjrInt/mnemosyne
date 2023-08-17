@@ -34,7 +34,7 @@ export const sendPinMessage = async cid => {
 
 export const createPinOnAleph = cid => {
     const _el = document.createElement('span')
-    _el.innerText = 'Pin on Aleph'
+    _el.innerText = 'Pin with Aleph'
     _el.addEventListener('click', e => {
         e.stopPropagation()
 
